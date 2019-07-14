@@ -1,8 +1,19 @@
 # AngularStore
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.1.
+Deployed to Firebase here: https://jmc-angular-store.firebaseapp.com/
 
-Based on the Anuglar 8 tutorial.
+Based on the recently updated Anuglar 8 tutorial. Covers the following concepts:
+
+- Initial setup using the CLI
+- Hooking up new components
+- Input and Output binding
+- Routing, including computed routes
+- Managing data through services
+- Making use of HttpClientModule
+- Forms, including the FormBuilder service
+- Deploymentto Firebase
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.1.
 
 ## Development server
 
